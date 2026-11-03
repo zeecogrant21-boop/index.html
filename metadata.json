@@ -1,0 +1,6 @@
+{
+  "name": "ZG Personal AI Co-Pilot",
+  "description": "Jamaican Knowledge Engine, Co-Pilot Assistant, and SQLite Database Maintenance Suite with StorageGuard, log pruning, automated backups, and integrity diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
